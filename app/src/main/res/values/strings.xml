@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FloraInfo</string>
+    <string name="odabirModa">Odaberite način rada:</string>
+    <string name="resetuj">Resetuj</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="naziv_biljke">Naziv biljke</string>
+    <string name="porodica">Porodica</string>
+    <string name="medicinsko_upozorenje">Medicinsko upozorenje</string>
+    <string name="jelo">Jelo</string>
+    <string name="dodaj_jelo">Dodaj jelo</string>
+    <string name="dodaj_biljku">Dodaj biljku</string>
+    <string name="uslikaj_biljku">Uslikaj biljku</string>
+    <string name="izmijeni_jelo">Izmijeni jelo</string>
+    <string name="medicinska_korist">Medicinska korist</string>
+    <string name="klimatski_tip">Klimatski tip</string>
+    <string name="zemljisni_tip">Zemljisni tip</string>
+    <string name="profil_okusa">Profil okusa</string>
+    <string name="jela">Jela</string>
+    <string name="slika_biljke_koju_dodajete">Slika biljke koju dodajete</string>
+    <string name="naziv">Naziv</string>
+    <string name="brza_pretraga">Brza pretraga</string>
+    <string-array name="niz_modova">
+        <item>Medicinski</item>
+        <item>Kuharski</item>
+        <item>Botanički</item>
+    </string-array>
+    <string-array name="niz_boja">
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>orange</item>
+        <item>purple</item>
+        <item>brown</item>
+        <item>green</item>
+    </string-array>
+</resources>
